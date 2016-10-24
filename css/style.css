@@ -1,118 +1,550 @@
 /*font-family: 'Shadows Into Light', cursive;
  font-family: 'Indie Flower', cursive;
- font-family: 'Franklin Gothic Heavy', arial;
- font-family: 'Franklin Gothic Book Italic', arial;
 */
+            #apDiv1 {
+	position: absolute;
+	width: 1000px;
+	height: 168px;
+	z-index: 1;
+	border-radius: 10px 10px 0px 0px;
+            }
+            #apDiv2 {
+	position: absolute;
+	width: 518px;
+	height: 21px;
+	z-index: 1;
+	left: -2px;
+	top: 126px;
+	background-color: #FFFFFF;
+	border-radius: 20px 20px 20px 20px;
+		            }
+            #apDiv3 {
+	position: absolute;
+	width: 251px;
+	height: 50px;
+	z-index: 1;
+	top: 179px;
+	left: 771px;
+            }
+            #apDiv4 {
+	position: absolute;
+	width: 123px;
+	height: 34px;
+	z-index: 1;
+	left: 679px;
+	top: 185px;
+            }
+            #apDiv5 {
+	position: absolute;
+	width: 280px;
+	height: 30px;
+	z-index: 1;
+	left: 720px;
+	top: 240px;
+	background-color: #003f5e;
+	border-radius: 0px 10px 0px 0px;
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 18px;
+	clip: rect(auto,auto,auto,auto);
+            }
+            #apDiv6 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 1;
+	left: 729px;
+	top: 275px;
+            }
+            #apDiv7 {
+	position: absolute;
+	width: 260px;
+	height: 22px;
+	z-index: 1;
+	left: 730px;
+	top: 471px;
+	background-color: #003f5e;
+	text-align: center;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 16px;
+            }
+            #apDiv8 {
+	position: absolute;
+	width: 259px;
+	height: 200px;
+	z-index: 1;
+	left: 731px;
+	top: 503px;
+            }
+            #apDiv9 {
+	position: absolute;
+	width: 33px;
+	height: 35px;
+	z-index: 1;
+	left: 206px;
+	top: -223px;
+            }
+            #apDiv10 {
+            position: absolute;
+            width: 713px;
+            height: 39px;
+            z-index: 2;
+            left: 119px;
+            top: 368px;
+            }
+        strong {
+	font-size: 15px;
+	font-weight: bold;
+	color: #003f5E;
+}
+div {
+	text-align: center;
+}
+        div {
+	font-size: 18px;
+}
+        .class body nav .menu #apDiv3 form {
+	font-size: 12px;
+}
+        form {
+	font-size: 12px;
+}
+        #apDiv11 {
+	position: absolute;
+	width: 257px;
+	height: 31px;
+	z-index: 1;
+	left: 11px;
+	top: 5px;
+	font-weight: normal;
+	bottom: -1px;
+}
+        #apDiv12 {
+	position: absolute;
+	width: 260px;
+	height: 24px;
+	z-index: 1;
+	left: 0px;
+	top: 2px;
+	font-weight: normal;
+	bottom: -1px;
+}
+        #apDiv13 {
+	position: absolute;
+	width: 225px;
+	height: 41px;
+	z-index: 2;
+	left: 64px;
+	top: 982px;
+}
+        #apDiv14 {
+	position: absolute;
+	width: 98px;
+	height: 68px;
+	z-index: 3;
+	left: 546px;
+	top: 22px;
+	border-radius: 0px 0px 0px 0px;
+}
+        #apDiv15 {
+	position: absolute;
+	width: 260px;
+	height: 24px;
+	z-index: 4;
+	left: 729px;
+	top: 721px;
+	background-color: #003f5e;
+}
+        #apDiv16 {
+	position: absolute;
+	width: 260px;
+	height: 24px;
+	z-index: 5;
+	left: 728px;
+	top: 724px;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: normal;
+}
+        #apDiv17 {
+	position: absolute;
+	width: 260px;
+	height: 78px;
+	z-index: 6;
+	left: 730px;
+	top: 885px;
+}
+        #apDiv18 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 7;
+	left: 729px;
+	top: 752px;
+}
+        #apDiv19 {
+	position: absolute;
+	width: 138px;
+	height: 43px;
+	z-index: 8;
+	left: 560px;
+	top: 185px;
+	color: #FFFFFF;
+}
+        #apDiv20 {
+	position: absolute;
+	width: 39px;
+	height: 18px;
+	z-index: 9;
+	left: 523px;
+	top: 184px;
+}
+        .class body section article p {
+	font-weight: bold;
+}
+        #apDiv21 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 10;
+	left: 272px;
+	top: 745px;
+}
+        #apDiv22 {	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 10;
+	left: 320px;
+	top: 751px;
+}
+        #apDiv23 {
+	position: absolute;
+	width: 669px;
+	height: 51px;
+	z-index: 10;
+	left: 308px;
+	top: 975px;
+}
+        #apDiv24 {
+	position: absolute;
+	
+	width: 632px;
+	height: 21px;
+	z-index: 1;
+	
+	left: 160px;
+	top: 142px;
+	color: #006680;
+	border-top-color: #006680;
+}
+        #apDiv25 {
+	position: absolute;
+	width: 360px;
+	height: 30px;
+	z-index: 10;
+	left: 436px;
+	top: 980px;
+	font-size: 12px;
+	color: #FFF;
+}
+        #apDiv26 {
+	position: absolute;
+	width: 576px;
+	height: 26px;
+	z-index: 11;
+	left: 328px;
+	top: 996px;
+	font-size: 12px;
+	color: #FFF;
+}
+        #apDiv27 {
+	position: absolute;
+	width: 200px;
+	height: 31px;
+	z-index: 12;
+	font-size: 12px;
+	color: #FFF;
+	left: 516px;
+	top: 1012px;
+}
+ #apDiv28 {
+	position: absolute;
+	width: 490px;
+	height: 129px;
+	z-index: 13;
+	left: 138px;
+	top: 290px;
+}
+        #apDiv29 {
+	position: absolute;
+	width: 118px;
+	height: 124px;
+	z-index: 1;
+	top: 327px;
+	left: -41px;
+}
+        #apDiv30 {
+	position: absolute;
+	width: 337px;
+	height: 144px;
+	z-index: 2;
+	left: 122px;
+	top: 304px;
+}
+ #apDiv31 {
+	position: absolute;
+	width: 713px;
+	height: 31px;
+	z-index: 14;
+	background-color: #003F5E;
+	border-radius: 10px 0px 0px 0px;
+	top: 240px;
+	color: #FFF;
+	left: 0px;
+}
+        #apDiv32 {
+	position: absolute;
+	width: 200px;
+	height: 25px;
+	z-index: 15;
+	color: #FFF;
+	left: 258px;
+	top: 246px;
+	font-weight: bold;
+}
+       
+        #apDiv33 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 16;
+	left: 172px;
+	top: 293px;
+}
+        #apDiv34 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 17;
+	left: 172px;
+	top: 425px;
+}
+        #apDiv35 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 18;
+	left: 172px;
+	top: 561px;
+}
+        #apDiv36 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 19;
+	left: 172px;
+	top: 698px;
+}
+        #apDiv37 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 20;
+	left: 172px;
+	top: 832px;
+}
+        #apDiv38 {
+	position: absolute;
+	width: 322px;
+	height: 134px;
+	z-index: 21;
+	left: 300px;
+	top: 266px;
+}
+        #apDiv39 {
+	position: absolute;
+	width: 321px;
+	height: 115px;
+	z-index: 22;
+	left: 301px;
+	top: 396px;
+}
+        #apDiv40 {
+	position: absolute;
+	width: 322px;
+	height: 115px;
+	z-index: 23;
+	left: 301px;
+	top: 532px;
+}
+        #apDiv41 {
+	position: absolute;
+	width: 321px;
+	height: 115px;
+	z-index: 24;
+	left: 302px;
+	top: 670px;
+}
+        #apDiv42 {
+	position: absolute;
+	width: 325px;
+	height: 115px;
+	z-index: 25;
+	left: 299px;
+	top: 805px;
+}
+ #apDiv43 {
+	position: absolute;
+	width: 636px;
+	height: 385px;
+	z-index: 16;
+	left: 32px;
+	top: 1207px;
+ }
+  #apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	border-radius: 10px 0px 0px 0px;
+	background-color: #003F5E;
+}
+        #apDiv43 {
+	position: absolute;
+	width: 124px;
+	height: 115px;
+	z-index: 14;
+	left: 84px;
+	top: 322px;
+}
+#apDiv44 {
+	position: absolute;
+	width: 609px;
+	height: 68px;
+	z-index: 17;
+	left: 18px;
+	top: 812px;
+}
+        #apDiv45 {
+	position: absolute;
+	width: 462px;
+	height: 76px;
+	z-index: 18;
+	left: 3px;
+	top: 753px;
+}
 
 #contenidos{
 	width: 1000px;
 	height: auto;
 	margin: auto;
 	position: relative;
-	background: white;
-	
-
+	color: #000;
 }
-
-
 /*ETIQUETAS*/
 body{
-background-image: url(../img/fondoblanco.gif);
+
 background-repeat: no-repeat;
 background-size: cover;
+background-color: #666;
 }
-
 h1{
-font-family: 'Franklin Gothic Heavy', arial;
-color: white;
-margin-left: 10px;
-font-size: 60px;
-text-align: center; 
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	margin-left: 10px;
+	font-size: 60px;
+	text-align: center;
 }
-
 h2{
-font-family: 'Franklin Gothic Book Italic', arial;
-color: white;
-margin-left: 10px;
-font-size: 30px;
-text-align: left; 
+	font-family: Arial, Helvetica, sans-serif;
+	color: #1C2123;
+	margin-left: 10px;
+	font-size: 15px;
+	text-align: center;
+	border-top: #006680;
 }
-
 h3{
-font-family: 'Franklin Gothic Heavy', arial;
-color: white;
-font-size: 20px;
-text-align: center; 
+	font-family: Arial, Helvetica, sans-serif;
+	;
+	color: white;
+	font-size: 11px;
+	text-align: center;
 }
 
-h5{
-font-family: 'Franklin Gothic Book Italic', arial;
-color: white;
-font-size: 10px;
-text-align: center; 
-}
+
+
+
+
+
 
 header{
-	width: 1150px;
-	height: auto;/*30 px*/
-	background: white;
+	width: 1000px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
 }
-
 nav{
-width: 1000px;/*1000px*/
-height: 50px;
-background: #03227F;
-border-radius: 10px;
-
+	width: 1000px;
+	height: 65px;
+	background: #003f5e;
+	border-radius: 0px 0px 10px 10px;
+	color: #006680;
 }
+
 ul{
 margin: auto;
 padding-top: 4px;
 }
 
-li {
+li{
 	float: left;
 	list-style-type: none;
-	padding: 10px;
-	background: #03227F;
+	padding: 13px;
+	background: #003f5e;
 	margin: 3px;
-	border-radius: 10px;
-	box-shadow: 0 0 10px white inset; 
-
+	border-radius: 7px;
+	box-shadow: inset 0px 0px 10px white;
+	margin-top: 7px;
 }
-
 section{
-	width: 1000px;/*700*/
-	background: WHITE;
-	height: 600px;
+	width: 713px;
+	background: white;
+	height: 720px;
 	float: left;
-	margin-top: 20px;
-	border-radius: 10px;
-	border-style: solid;
-	border-color: #70737D;
+	margin-top: 7px;
+	border-radius: 10px 0px 0px 0px;
 }
+#centro { /* Sección completa sin Iside*/
+	width: 993px;
+	background: white;
+	height: 720px;
+	float: left;
+	margin-top: 7px;
+	border-radius: 10px 0px 0px 0px;
+ }
 aside{
-
 	width: 280px;
 	background: white;
-	height: 600px;
+	height: 720px;
 	float: left;
-	margin-left: 20px;
-	margin-top: 20px;
-	border-radius: 10px;
-	
+	margin-left: 7px;
+	margin-top: 7px;
+	border-radius: 0px 10px 0px 0px;
 }
-
 footer{
-width: 1000px;
-height: auto;/*70px*/
-background: black;
-float: left;
-margin-top: 20px;
-border-radius: 10px;
-margin-bottom: 20px;
+	width: 1000px;
+	height: 70px;
+	background: #003f5e;
+	float: left;
+	margin-top: 7px;
+	border-radius: 0px 0px 10px 10px;
+	margin-bottom: 20px;
+	font-size: 12px;
+	text-align: left;
 }
-
 p{
 
 	font-size: 15px;
@@ -121,35 +553,45 @@ p{
 	padding: 10px;
 	text-align: justify;
 }
-
-
-
-
 /*CLASES*/
-
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
+.menu:link{
+	color: #FFF;
+	text-decoration: none;
+}
+.menu:visited{
+	color: #FFF;
+	text-decoration: none;
+}
+.menu:hover{
+	color: #FF6600;
+	text-decoration: none;
+	/*text-shadow: 0 0 13px white;*/
+}
+.menu:active{
+	color: #003F5E;
+	text-decoration: none;
+}
 
-.menu:link{color: white; text-decoration: none;}
-.menu:visited{color: white; text-decoration: none;}
-.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
-.menu:active{color: white; text-decoration: none;}
+.menu li:hover ul {
+        display:block;
+        position: absolute;
+        padding: 0;
+        margin:-16px;
+        margin-top:10px;
+        width: 10px;
+        float: none;
+                }
+.menu  li ul {
+        display:none;
+        position:absolute;
+        min-width:130px;
+        }
 
-/*SEUDO CLASES*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	/*SEUDO CLASES*/
+p {
+	font-size: 12px;
+	font-weight: normal;
+	color: #333;
+}
